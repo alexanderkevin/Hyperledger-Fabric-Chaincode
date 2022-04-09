@@ -19,7 +19,7 @@
     "dependencies": {
         "fabric-contract-api": "1.4.2",
         "fabric-shim": "1.4.2",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "uuid": "^3.3.3"
     },
     "devDependencies": {
